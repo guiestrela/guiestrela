@@ -1,5 +1,5 @@
 # Sobre min:
-Em transição de carreira de Infra para Dev.<br><br>Recém-formado em 'Superior de Tecnologia em Desenvolvimento Web'<br>pela faculdade Anhanguera em 12/2024.<br>
+Em transição de carreira de Infra para Dev.<br><br>formado em 'Superior de Tecnologia em Desenvolvimento Web'<br>pela faculdade Anhanguera em 12/2024.<br>
 
 
 ## 🌐 Socials:
