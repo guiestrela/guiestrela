@@ -1,5 +1,14 @@
-# Sobre min:
-Em transição de carreira de Infra para Dev.<br><br>Formado em 'Superior de Tecnologia em Desenvolvimento Web'<br>pela faculdade Anhanguera em 12/2024.<br>
+# 💻 Sobre mim:
+
+Sou apaixonado por tecnologia e desenvolvimento de software e atualmente estou em transição de carreira para a área de desenvolvimento.
+
+Tenho formação em <br>Superior de Tecnologia em Desenvolvimento Web</br> e atualmente curso <br>Ciência da Computação</br>, com conclusão prevista para 2027.
+
+Possuo conhecimentos em JavaScript, TypeScript e React, com foco na criação de aplicações web modernas, responsivas e orientadas à experiência do usuário. Ao longo da minha jornada venho desenvolvendo projetos que envolvem lógica de aplicação, organização de interfaces e boas práticas de desenvolvimento.
+
+Também tenho familiaridade com Windows e Linux, o que contribui para configuração de ambientes de desenvolvimento e resolução de problemas técnicos.
+
+🚀 Estou sempre buscando aprender novas tecnologias, evoluir como desenvolvedor e contribuir com soluções eficientes que gerem valor para usuários e empresas.
 
 
 ## 🌐 Socials:
