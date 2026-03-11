@@ -2,7 +2,7 @@
 
 Sou apaixonado por tecnologia e desenvolvimento de software e atualmente estou em transição de carreira para a área de desenvolvimento.
 
-Tenho formação em <br>Superior de Tecnologia em Desenvolvimento Web</br> e atualmente curso <br>Ciência da Computação</br>, com conclusão prevista para 2027.
+Tenho formação em <br>Superior de Tecnologia em Desenvolvimento Web e atualmente curso Ciência da Computação, com conclusão prevista para 2027.
 
 Possuo conhecimentos em JavaScript, TypeScript e React, com foco na criação de aplicações web modernas, responsivas e orientadas à experiência do usuário. Ao longo da minha jornada venho desenvolvendo projetos que envolvem lógica de aplicação, organização de interfaces e boas práticas de desenvolvimento.
 
