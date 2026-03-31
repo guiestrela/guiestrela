@@ -1,5 +1,3 @@
-# Sobre min:
-Em transição de carreira de Infra para Dev.<br><br>Formado em 'Superior de Tecnologia em Desenvolvimento Web'<br>pela faculdade Anhanguera em 12/2024.<br>
 # 💻 Sobre mim:
 
 Sou apaixonado por tecnologia e desenvolvimento de software e atualmente estou em transição de carreira para a área de desenvolvimento.
